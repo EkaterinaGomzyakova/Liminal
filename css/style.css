@@ -1,13 +1,10 @@
 @font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
-  font-family: 'Suisse';
+  font-family: 'Roboto Mono';
   font-weight: normal;
 }
 
 @font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
-);
-  font-family: 'Suisse';
+  font-family: 'Roboto Mono';
   font-weight: bold;
 }
 
@@ -24,7 +21,7 @@ body {
   max-width: 540px;
   min-height: 100%;
   margin: 0 auto;
-  font-family: 'Suisse';
+  font-family: 'Roboto Mono';
   box-sizing: border-box;
   padding: 36px;
 }
@@ -46,7 +43,8 @@ body {
   height: 40px;
   padding-top: 10px;
   box-sizing: border-box;
-  border: 1px solid white;
+  border: 2px solid #00BD79;
+  border-radius: 4px;
   text-align: center;
   font-size: 14px;
   cursor: pointer;
