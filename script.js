@@ -1,14 +1,14 @@
 let phrases = [
-  { text: 'Генератор Аркадьева-Маркса', image: 'generator.jpg' },
-  { text: 'Горбовская ГЭС', image: 'gorgas.jpg' },
-  { text: 'Пионерский лагерь «Сказка»', image: 'camp.jpg' },
-  { text: 'Планетарий в санатории «Солнечное»', image: 'planetarium.jpg' },
-  { text: 'Ткварчели, Абхазия', image: 'town.jpg' },
-  { text: 'ЗИЛ', image: 'zil.jpg' },
-  { text: 'Хэлсиен Холл', image: 'halsien.jpg' },
-  { text: 'Стaнция Пcырцхa, Абхaзия', image: 'psyrckha.jpg' },
-  { text: 'Башня-ресторан, Грузия, Анаклия.', image: 'anaklia.jpg' },
-  { text: 'Усадьба Демидовых', image: 'demidov.jpg' }
+  { text: 'Генератор Аркадьева-Маркса', image: 'img/generator.jpg' },
+  { text: 'Горбовская ГЭС', image: 'img/gorgas.jpg' },
+  { text: 'Пионерский лагерь «Сказка»', image: 'img/camp.jpg' },
+  { text: 'Планетарий в санатории «Солнечное»', image: 'img/planetarium.jpg' },
+  { text: 'Ткварчели, Абхазия', image: 'img/town.jpg' },
+  { text: 'ЗИЛ', image: 'img/zil.jpg' },
+  { text: 'Хэлсиен Холл', image: 'img/halsien.jpg' },
+  { text: 'Стaнция Пcырцхa, Абхaзия', image: 'img/psyrckha.jpg' },
+  { text: 'Башня-ресторан, Грузия, Анаклия.', image: 'img/anaklia.jpg' },
+  { text: 'Усадьба Демидовых', image: 'img/demidov.jpg' }
 ];
 
 function getRandomElement(arr) {
