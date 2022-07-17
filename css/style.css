@@ -43,7 +43,8 @@ body {
   height: 40px;
   padding-top: 10px;
   box-sizing: border-box;
-  border: 2px solid #00BD79;
+  /* border: 2px solid #00BD79; */
+  color: #00BD79; 
   border-radius: 4px;
   text-align: center;
   font-size: 14px;
